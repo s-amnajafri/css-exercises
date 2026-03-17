@@ -1,4 +1,4 @@
-.header  {
+.header {
   font-family: monospace;
   background: papayawhip;
   display: flex;
@@ -12,7 +12,6 @@
   color: tomato;
   background: white;
   padding: 0px 32px;
-  
 }
 
 ul {
